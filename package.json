@@ -4,7 +4,7 @@
   "description": "A starter kit to create React libraries using Typescript",
   "repository": "git+ssh://git@github.com/nitishkr88/react-lib-typescript-starter.git",
   "homepage": "https://github.com/nitishkr88/react-lib-typescript-starter#readme",
-  "main": "dist/es2015/index.js",
+  "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "scripts": {
     "npmcheckversion": "node ./internals/scripts/npmcheckversion.js",
